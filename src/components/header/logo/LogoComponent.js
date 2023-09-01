@@ -1,3 +1,3 @@
 export default function LogoComponent() {
-	return <p>I am a Logo Component !!!</p>;
+	return <h3>I am a Logo Component !!!</h3>;
 }
