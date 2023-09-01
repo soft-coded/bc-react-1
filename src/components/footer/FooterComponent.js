@@ -1,5 +1,5 @@
 function FooterComponent() {
-	return <footer>I am a Footer Component !!!</footer>;
+	return <h2>I am a Footer Component !!!</h2>;
 }
 
 export default FooterComponent;
