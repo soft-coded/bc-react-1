@@ -1,5 +1,5 @@
-import BodyLeftComponent from "./body-left/BodyLeftComponent";
-import BodyRightComponent from "./body-right/BodyRightComponent";
+import BodyLeftComponent from "./BodyLeftComponent";
+import BodyRightComponent from "./BodyRightComponent";
 
 export default function BodyComponent() {
 	return (

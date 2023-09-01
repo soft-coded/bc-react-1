@@ -1,5 +1,5 @@
-import LogoComponent from "./logo/LogoComponent";
-import ViewTitleComponent from "./view-title/ViewTitleComponent";
+import LogoComponent from "./LogoComponent";
+import ViewTitleComponent from "./ViewTitleComponent";
 
 export default function HeaderComponent() {
 	return (
